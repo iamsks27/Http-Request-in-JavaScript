@@ -1,2 +1,2 @@
 # Http-Request-in-JavaScript
-Get and Post method in javascript 
+Various ways to make get and post request in javascript.
